@@ -6,5 +6,6 @@ namespace BestBuyBestPractices
         public Product()
         {
         }
+        public int ProductID { get; set; }
     }
 }
